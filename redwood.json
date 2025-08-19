@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1755526191,
-      "filename": "DerpFest-v16.0-20250818-redwood-Community-Beta.zip",
-      "id": "9dfdaf3d75bfc5910323a817daaaf8dd54c837b3fa98e417119a67645315c720",
+      "datetime": 1755580783,
+      "filename": "DerpFest-v16.0-20250819-redwood-Community-Stable.zip",
+      "id": "577c363996f7918e8ff7b3df5fb7e7da10c02cd8cbaca585c5f013424a43a98c",
       "romtype": "Community",
-      "size": 2565946898,
-      "url": "https://sourceforge.net/projects/derpfest/files/redwood/DerpFest-v16.0-20250818-redwood-Community-Beta.zip/download",
+      "size": 2567984469,
+      "url": "https://sourceforge.net/projects/ota-infinity-x/files/Derpfest/A16/DerpFest-v16.0-20250819-redwood-Community-Stable.zip/download",
       "version": "v16.0"
     }
   ]
