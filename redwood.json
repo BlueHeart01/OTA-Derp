@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": 1755580783,
-      "filename": "DerpFest-v16.0-20250819-redwood-Community-Stable.zip",
-      "id": "577c363996f7918e8ff7b3df5fb7e7da10c02cd8cbaca585c5f013424a43a98c",
+      "filename": "DerpFest-v16.2-20260223-redwood-Community-Beta.zip",
+      "id": "9cb257b2453085202ab2c60eef8e1d626bb2019d",
       "romtype": "Community",
       "size": 2567984469,
-      "url": "https://sourceforge.net/projects/ota-infinity-x/files/Derpfest/A16/DerpFest-v16.0-20250819-redwood-Community-Stable.zip/download",
-      "version": "v16.0"
+      "url": "https://sourceforge.net/projects/derpfestos-redwood/files/DerpfestOS/A16/rom/DerpFest-v16.2-20260223-redwood-Community-Beta.zip/download",
+      "version": "v16.2"
     }
   ]
 }
